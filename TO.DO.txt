@@ -1,0 +1,58 @@
+
+1- Hacer que ande flujo FlowGraph (done)
+
+2 - Crear vista FlowGraph 
+	2.a solapas (done)
+	2.b sorter (done)
+	2.c llenar tabla derecha (done)
+	2.d menu popUp y doble click
+		
+3- Filtros
+	3.a de Fan-IN
+	3.b de Unique
+
+4- Acomodar ls vistas
+	4.a labels e imagenes de Fan-IN (done)
+	4.b labels e imagenes de UniqueMethods (done)
+	4.c labels e imagenes de GraphFlows 
+	4.d labels e imagenes de 4to
+	4.e	Permitir hacer print a archivos Fan-IN (done)
+	4.e	Permitir hacer print a archivos UniqueMethods (done)
+	4.e	Permitir hacer print a archivos GraphFlow
+	4.e	Permitir hacer print a archivos 4to
+
+5- Crear vista de Seeds con su modelo de Fan IN
+	5.a abrir desde vista Fan IN (done)
+	5.b editar descripcion (done)
+	5.c editar llamadas (done)
+	5.d print de la vista	(done)
+	
+6- Crear vista de Seeds con su modelo de Unique Methods
+	6.a abrir desde vista Graph Flow (done)
+	6.b editar descripcion (done)
+	6.c editar llamadas (done)
+	6.d print de la vista (done)
+	
+7- Crear vista de Seeds con su modelo de Graph Flow
+	7.a abrir desde vista Graph Flow
+	7.b editar descripcion
+	7.c editar tabla de la derecha
+	7.d print de la vista
+	
+8- Algoritmo 4to
+	8.a Crear flujo
+	8.b Crear Vista
+	8.c Crear clp
+	8.b Crear vista de Seeds con su modelo de 4to
+
+
+9- Hacer andar Fan-IN
+10- Hacer andar Control Flow
+11- Crear una vista única de seeds
+12- Crear combinación de cuatro algoritmos.
+	
+Luego faltaría lo siguiente:
+
+1- Refinar Fan-IN. Unique Methods sale de este asique no nos enroscamos con ese.
+2- Definir el nuevo algoritmo que nos dijo que era a nivel de clase. (osea el clp)
+5- la cosa que nos agreguen :S.....que guachada
