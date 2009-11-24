@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?NLS TYPE="org.eclipse.help.toc"?>
+
+<toc label="Installation" link_to="resource/help/toc.xml#installation"> 
+	<topic label="Troubleshooting" href="resource/help/html/installation/troubleshooting/troubleshooting.html"> 
+		<topic label="Eclipse" href="resource/help/html/installation/troubleshooting/troubleshooting.html#eclipse" /> 
+		<topic label="Java" href="resource/help/html/installation/troubleshooting/troubleshooting.html#java" /> 
+		<topic label="Windows" href="resource/help/html/installation/troubleshooting/troubleshooting.html#windows" /> 
+		<topic label="Linux" href="resource/help/html/installation/troubleshooting/troubleshooting.html#linux" /> 
+	</topic>
+</toc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?NLS TYPE="org.eclipse.help.toc"?>
+
+<toc label="FLABot User's Guide">
+   <topic label="Introduction" href="resource/help/html/introduction/introduction.html">
+      <anchor id="introduction"/>
+   </topic>
+   <topic label="Installation" href="resource/help/html/installation/installation.html">
+      <anchor id="installation"/>
+   </topic>
+   <topic label="Using the plugin" href="resource/help/html/usingtheplugin/usingtheplugin.html">
+      <anchor id="usingtheplugin"/>
+   </topic>
+   <!--<topic label="Javadoc" href="resource/help/html/javadoc/index.html" /> -->
+</toc>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?NLS TYPE="org.eclipse.help.toc"?>
+
+<toc label="Using the plugin" link_to="resource/help/toc.xml#usingtheplugin">
+	<topic label="UML-like component Diagrams" href="resource/help/html/usingtheplugin/creatingauml_likecomponent.html">
+		<topic label="Creating components" href="resource/help/html/usingtheplugin/creatingauml_likecomponent/creatingcomponents.html" />
+		<topic label="Adding ports and interfaces to components" href="resource/help/html/usingtheplugin/creatingauml_likecomponent/addingportsandinterfacesto.html" />
+		<topic label="Adding responsibilities" href="resource/help/html/usingtheplugin/creatingauml_likecomponent/addingresponsibilities.html" />
+		<topic label="Associating responsibilities to UML-like components" href="resource/help/html/usingtheplugin/creatingauml_likecomponent/associatingresponsibilitiest.html" /> 						
+		<topic label="Creating and associating notes to the graphical elements" href="resource/help/html/usingtheplugin/creatingauml_likecomponent/creatingandassociatingnotes.html" /> 						
+	</topic>
+	<topic label="UCM Diagrams" href="resource/help/html/usingtheplugin/creatingaucmdiagramusingt.html">
+		<topic label="Creating UCM components from the UML-like components" href="resource/help/html/usingtheplugin/creatingaucmdiagramusingt/creatingucmcomponentsfromt.html" /> 
+		<topic label="Creating paths" href="resource/help/html/usingtheplugin/creatingaucmdiagramusingt/creatingpaths.html" /> 
+		<topic label="Associating responsibilities to path nodes" href="resource/help/html/usingtheplugin/creatingaucmdiagramusingt/associatingresponsibilitiest2.html" />
+		<topic label="Adding forks and joins" href="resource/help/html/usingtheplugin/creatingaucmdiagramusingt/addingdifferenttypesofnode.html" />
+		<topic label="Adding stubs" href="resource/help/html/usingtheplugin/creatingaucmdiagramusingt/stubs.html" />
+		<topic label="Adding preconditions and constraints" href="resource/help/html/usingtheplugin/creatingaucmdiagramusingt/pre_constraints.html" />
+	</topic>
+	<topic label="Other visual capabilities">
+		<topic label="Changing the graphical properties of components" href="resource/help/html/usingtheplugin/othercapabilities/changingthegraphicalpropert.html" /> 
+		<topic label="Arranging the component positions" href="resource/help/html/usingtheplugin/othercapabilities/arrangingthecomponentpositi.html" />
+	</topic>
+	<topic label="Architectural families">
+		<topic label="Setting architectural properties" href="resource/help/html/usingtheplugin/families/archProperties.html" />
+		<topic label="Defining families" href="resource/help/html/usingtheplugin/families/definingFamilies.html" />
+		<topic label="Mapping architectural responsibilities" href="resource/help/html/usingtheplugin/families/mappingResponsibilities.html" />
+	</topic>
+	<topic label="Architecture-code mapping">
+		<topic label="Mapping a responsibility to code" href="resource/help/html/usingtheplugin/archcode/codeMapping.html" />
+		<topic label="Selecting a state determination strategy" href="resource/help/html/usingtheplugin/archcode/stateStrategy.html" />
+	</topic>
+	<topic label="FLABot application launcher">
+		<topic label="Creating a FLABot launch configuration" href="resource/help/html/usingtheplugin/launcher/config.html" />
+		<topic label="Launching and controlling an instrumented application" href="resource/help/html/usingtheplugin/launcher/launching.html" />
+	</topic>
+	<topic label="Fault locator engine">
+		<topic label="Running the fault locator engine" href="resource/help/html/usingtheplugin/flEngine/running.html" />
+		<topic label="Using the FLABot Engine perspective" href="resource/help/html/usingtheplugin/flEngine/perspective.html" />
+		<topic label="Manually selecting the execution state" href="resource/help/html/usingtheplugin/flEngine/stateDialog.html" />
+		<topic label="Opening the log file" href="resource/help/html/usingtheplugin/flEngine/openingLogFile.html" />
+		<topic label="Selecting execution instances" href="resource/help/html/usingtheplugin/flEngine/instanceDialog.html" />
+		<topic label="Running the engine step-by-step" href="resource/help/html/usingtheplugin/flEngine/stepByStep.html" />
+		<topic label="Installing breakpoints" href="resource/help/html/usingtheplugin/flEngine/installingBreakpoints.html" />
+	</topic>
+	<topic label="Synchronize a RSA Diagram to a FLABot Diagram">
+		<topic label="Requirements" href="resource/help/html/usingtheplugin/synchronize/requirements.html" />
+		<topic label="Using the Synchronize plugin" href="resource/help/html/usingtheplugin/synchronize/usingtheplugin.html">
+			<topic label="Creating components" href="resource/help/html/usingtheplugin/synchronize/usingtheplugin/creatingcomponents.html" />
+            		<topic label="Adding ports and interfaces to components" href="resource/help/html/usingtheplugin/synchronize/usingtheplugin/addingportsandinterfacesto.html" />
+		        <topic label="Adding responsibilities" href="resource/help/html/usingtheplugin/synchronize/usingtheplugin/addingresponsibilities.html" />
+          		<topic label="Associating responsibilities to UML-like components" href="resource/help/html/usingtheplugin/synchronize/usingtheplugin/associatingresponsibilitiest.html" />
+			<topic label="Creating relationships between components and association between interfaces" href="resource/help/html/usingtheplugin/synchronize/usingtheplugin/addRelationship.html" />
+            		<topic label="Creating and associating notes to the graphical elements" href="resource/help/html/usingtheplugin/synchronize/usingtheplugin/creatingandassociatingnotes.html" />
+			<topic label="Associating Java Classes to UML-like components" href="resource/help/html/usingtheplugin/synchronize/usingtheplugin/mappingJavaClass.html" />
+         		<topic label="Changing the graphical properties of components" href="resource/help/html/usingtheplugin/synchronize/usingtheplugin/changingthegraphicalpropert.html" />
+		</topic>
+	</topic>
+</toc>
