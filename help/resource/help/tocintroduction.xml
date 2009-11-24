@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?NLS TYPE="org.eclipse.help.toc"?>
+
+<toc label="Introduction" link_to="resource/help/toc.xml#introduction"> 
+	<topic label="Requirements"  href="resource/help/html/introduction/requirements.html"/> 
+</toc>

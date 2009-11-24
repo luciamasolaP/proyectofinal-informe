@@ -1,0 +1,6 @@
+<extension point="org.eclipse.help.toc">
+    <toc file="resource/help/toc.xml" primary="true"/>
+    <toc file="resource/help/tocinstallation.xml"/>
+    <toc file="resource/help/tocintroduction.xml"/>
+    <toc file="resource/help/tocusingtheplugin.xml"/>
+ </extension>
